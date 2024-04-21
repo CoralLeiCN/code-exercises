@@ -1,3 +1,2 @@
 # code-practice
-I do not want to practice SQL.
-because I think when you can google/ask LLM, it is not a blocker in day-to-day job. However, After not heavily practice SQL in day-to-day work. I may need to refresh it in order to pass the interview.
+I do not want to practice SQL, when you can google/ask LLM, it will not be a blocker in day-to-day job. However, After not heavily use SQL in day-to-day work (use pandas and spark pandas as main DML). I may need to refresh it in order to pass the interview.
